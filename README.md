@@ -10,6 +10,8 @@ A simple Python audio player using the `tkinter` GUI library and `pygame.mixer` 
 ## Requirements
 
 - Python 3.x
+- tkinter library
+- fnmatch library
 - `pygame` library (Install using `pip install pygame`)
 
 ## Features
@@ -25,6 +27,4 @@ A simple Python audio player using the `tkinter` GUI library and `pygame.mixer` 
 
 2. Install the required `pygame` library using pip:
 
-```bash
-pip install pygame
 
